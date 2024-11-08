@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suaa-coder
 - 👀 I’m interested in ... creating mini software, self-learning and problem solving 
-- 🌱 I’m currently learning ... how to become advanced on html coding 
+- 🌱 I’m currently learning ... how to become advanced on HTML coding 
 - ⚡ Fun fact: ... i love swimming, reading and travelling 
 
 <!---
