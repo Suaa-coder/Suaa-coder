@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suaa-coder
-- 👀 I’m interested in ... creating mini software, self-learning and problem solving 
-- 🌱 I’m currently learning ... how to become advanced on HTML coding 
+- 👀 I’m interested in ...data analysis and emerging technologies
+- 🌱 I’m currently learning ... web development, Python and SQL to enhance my coding skills and exapnad my IT knowledge
 - ⚡ Fun fact: ... i love swimming, reading and travelling 
 
 <!---
